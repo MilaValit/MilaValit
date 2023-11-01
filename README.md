@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mila Valit.
-- 👀 I’m interested in game development and creating small indie-projects.
+- 👀 I’m interested in game development.
 - 🌱 I’m currently learning C# scripts, Unity 2D and 3D, FMOD and Blender.
-- 💞️ I’m looking for a job as a junior game developer. I'd like to work with a nice team with their own unique vision. Let's create something beautiful!
+- 💞️ I’m looking for a job as a game developer. I'd like to work with a nice team with their own unique vision. Let's create something beautiful!
 
 My top 5 favorite games is as follows:
 1) Mass Effect 2
